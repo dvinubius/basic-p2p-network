@@ -1,3 +1,9 @@
+# Draft for a p2p network client
+
+FloodSub-based approach to a p2p network.
+
+> Based on freecodecamp's [web3 curriculum](https://web3.freecodecamp.org/web3)
+
 # Setup
 
 - Develop the client in `/node-1`
