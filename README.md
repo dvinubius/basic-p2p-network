@@ -36,3 +36,4 @@ New Terminal 3
 
 - Kill existing processes
 - In project root, run `node delete-nodes.js`
+- Repeat steps from 'Start the Network'
